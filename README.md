@@ -1,5 +1,5 @@
 # Havoc-C2-SSRF-to-RCE
-This is a modified version of the CVE-2024-41570 SSRF PoC from @chebuya chained with the auth RCE PoC from @hyperreality. This exploit is made to execute code remotely due to multiple vulnerabilities in Havoc C2 Framework. (https://github.com/HavocFramework/Havoc)
+This is a modified version of the CVE-2024-41570 SSRF PoC from [@chebuya](https://github.com/chebuya/Havoc-C2-SSRF-poc) chained with the auth RCE exploit from [@hyperreality](https://github.com/IncludeSecurity/c2-vulnerabilities/tree/main/havoc_auth_rce). This exploit executes code remotely to a target due to multiple vulnerabilities in [Havoc C2 Framework.](https://github.com/HavocFramework/Havoc)
 
 
 
